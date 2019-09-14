@@ -341,7 +341,7 @@ header ul li:before {
 .content .slider .wrap .prev .arrow-left {
   width: 30px;
   height: 30px;
-  background: url(../icons/left-arrow.svg) center no-repeat;
+  background: url(../icon/left-arrow.svg) center no-repeat;
   background-size: cover;
   position: absolute;
   top: 50%;
@@ -373,7 +373,7 @@ header ul li:before {
 .content .slider .wrap .next .arrow-right {
   width: 30px;
   height: 30px;
-  background: url(../icons/right-arrow.svg) center no-repeat;
+  background: url(../icon/right-arrow.svg) center no-repeat;
   background-size: cover;
   position: absolute;
   top: 50%;
